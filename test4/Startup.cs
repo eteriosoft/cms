@@ -8,6 +8,7 @@ namespace test4
     {
         public void Configuration(IAppBuilder app)
         {
+            // one more from web
             // test from web
             ConfigureAuth(app);
         }
